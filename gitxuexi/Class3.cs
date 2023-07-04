@@ -12,7 +12,7 @@ namespace gitxuexi
 
 
 
-
+        public int MyProperty1 { get; set; }
 
 
 
